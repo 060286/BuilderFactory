@@ -1,0 +1,15 @@
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/bin/Debug/net7.0/SP.Composite1
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/bin/Debug/net7.0/SP.Composite1.deps.json
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/bin/Debug/net7.0/SP.Composite1.runtimeconfig.json
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/bin/Debug/net7.0/SP.Composite1.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/bin/Debug/net7.0/SP.Composite1.pdb
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.csproj.AssemblyReference.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.AssemblyInfoInputs.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.AssemblyInfo.cs
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.csproj.CoreCompileInputs.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/refint/SP.Composite1.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.pdb
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/SP.Composite1.genruntimeconfig.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/obj/Debug/net7.0/ref/SP.Composite1.dll

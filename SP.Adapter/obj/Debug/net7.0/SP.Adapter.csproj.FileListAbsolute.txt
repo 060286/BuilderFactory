@@ -1,0 +1,15 @@
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/bin/Debug/net7.0/SP.Adapter
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/bin/Debug/net7.0/SP.Adapter.deps.json
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/bin/Debug/net7.0/SP.Adapter.runtimeconfig.json
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/bin/Debug/net7.0/SP.Adapter.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/bin/Debug/net7.0/SP.Adapter.pdb
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.csproj.AssemblyReference.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.AssemblyInfoInputs.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.AssemblyInfo.cs
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.csproj.CoreCompileInputs.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/refint/SP.Adapter.dll
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.pdb
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/SP.Adapter.genruntimeconfig.cache
+/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/Debug/net7.0/ref/SP.Adapter.dll
