@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uigj10OpPRS5nvi9oPNYEQtH9M9VLXx+U4avrhMX6NhVXmvpOAf5YJeNxOKziBvxluhh2EkWUFGkC/QVc16tMA==",
+  "dgSpecHash": "erPpbz6n52dx86WzWaojtCLQHUbL6fFVa1oX4dQwpN79tuyZazj/Q4l66qF++3l2ZdKIQGMV8bMiquFa0HgRkg==",
   "success": true,
-  "projectFilePath": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Bridge/SP.Bridge.csproj",
+  "projectFilePath": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Bridge\\SP.Bridge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

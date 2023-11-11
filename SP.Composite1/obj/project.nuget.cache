@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Hkoh2UWXESXA2QGMqOL4hFIYJ5hiXN7cFDXL2tAKMu4l+Wvud5tPaAgO8Ib+HA3O8ta9XehQZC8WOFHht5TWVQ==",
+  "dgSpecHash": "HNdf2xCdPJCN1ir1eBq0cwtkTeQIfmLMvxkk+IK70AWcggjQTPJM3rdAB+zqXnOELsBDgRjoyeemWPnKMlFL1Q==",
   "success": true,
-  "projectFilePath": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Composite1/SP.Composite1.csproj",
+  "projectFilePath": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Composite1\\SP.Composite1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

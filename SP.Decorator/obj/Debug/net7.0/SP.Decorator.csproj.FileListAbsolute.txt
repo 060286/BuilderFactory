@@ -1,0 +1,15 @@
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\bin\Debug\net7.0\SP.Decorator.exe
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\bin\Debug\net7.0\SP.Decorator.deps.json
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\bin\Debug\net7.0\SP.Decorator.runtimeconfig.json
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\bin\Debug\net7.0\SP.Decorator.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\bin\Debug\net7.0\SP.Decorator.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.csproj.AssemblyReference.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.AssemblyInfoInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.AssemblyInfo.cs
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.csproj.CoreCompileInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\refint\SP.Decorator.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\SP.Decorator.genruntimeconfig.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Decorator\obj\Debug\net7.0\ref\SP.Decorator.dll

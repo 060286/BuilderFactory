@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3rOcsjARh2XiP16bexUCleVaU4ER8CHz/JGqew/VC6h5QFkfYh6NJsoQ1SUc3MFzJsopkF8aWYgEhaopLof8+Q==",
+  "dgSpecHash": "2P0UevP84ShqjARH9bP1yASzO9Mbn3qHT/g0PATh2eayjLBLtTeG4rxEIp5pgmRVTSpDwN6UbfrEoL1ZX0940Q==",
   "success": true,
-  "projectFilePath": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/SP.Adapter.csproj",
+  "projectFilePath": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\SP.Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

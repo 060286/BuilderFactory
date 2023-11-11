@@ -23,7 +23,7 @@ public class File : Component
 public class Directory : Component
 {
     private List<Component> _children = new List<Component>();
-    
+
     private string Name { get; set; }
 
     public Directory(string name)
@@ -44,6 +44,15 @@ public class Directory : Component
     public override string ToString()
     {
         string result = Name + "{ ";
+
+        foreach (Component component in _children)
+        {
+            result += " " + component.ToString();
+        }
+
+        result += " }";
+
+        return result;
     }
 }
 
@@ -51,6 +60,12 @@ static class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Composite 1 Demo");
+        Directory rootDirectory = new Directory("root");
+
+        rootDirectory.Add(new File("file1.txt"));
+
+        rootDirectory.Add(new Directory("directory1"));
+
+        Console.WriteLine(rootDirectory.ToString());
     }
 }

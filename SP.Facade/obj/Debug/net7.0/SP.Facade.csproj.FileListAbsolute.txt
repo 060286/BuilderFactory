@@ -1,0 +1,15 @@
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\bin\Debug\net7.0\SP.Facade.exe
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\bin\Debug\net7.0\SP.Facade.deps.json
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\bin\Debug\net7.0\SP.Facade.runtimeconfig.json
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\bin\Debug\net7.0\SP.Facade.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\bin\Debug\net7.0\SP.Facade.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.csproj.AssemblyReference.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.AssemblyInfoInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.AssemblyInfo.cs
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.csproj.CoreCompileInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\refint\SP.Facade.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\SP.Facade.genruntimeconfig.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Facade\obj\Debug\net7.0\ref\SP.Facade.dll

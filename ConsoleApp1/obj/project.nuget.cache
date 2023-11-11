@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7FvMAU3WCet6cUwu9DLZ6SOzjycm9vKsEV+XghsvOJMKlxP1OOyP95tknp0AkEVMfGVXqQW5tmhxbm3loZyeAg==",
+  "dgSpecHash": "PC+OKZw5QiTGnaY7Td0ecMQlLBm6tMa9p1yP+WWQ86jZ+c2442C3sUD5wyF0SLO87EL1MIZbIUxQHiI0dQL6zw==",
   "success": true,
-  "projectFilePath": "/Users/tamle.dev/Documents/netcore/StudyPattern/ConsoleApp1/ConsoleApp1.csproj",
+  "projectFilePath": "E:\\src\\DesignPattern1\\BuilderFactory\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/SP.Adapter.csproj": {}
+    "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\SP.Adapter.csproj": {}
   },
   "projects": {
-    "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/SP.Adapter.csproj": {
+    "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\SP.Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/SP.Adapter.csproj",
+        "projectUniqueName": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\SP.Adapter.csproj",
         "projectName": "SP.Adapter",
-        "projectPath": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/SP.Adapter.csproj",
-        "packagesPath": "/Users/tamle.dev/.nuget/packages/",
-        "outputPath": "/Users/tamle.dev/Documents/netcore/StudyPattern/SP.Adapter/obj/",
+        "projectPath": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\SP.Adapter.csproj",
+        "packagesPath": "C:\\Users\\tamle\\.nuget\\packages\\",
+        "outputPath": "E:\\src\\DesignPattern1\\BuilderFactory\\SP.Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/tamle.dev/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\tamle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
