@@ -1,0 +1,15 @@
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\bin\Debug\net7.0\SP.Bridge.exe
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\bin\Debug\net7.0\SP.Bridge.deps.json
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\bin\Debug\net7.0\SP.Bridge.runtimeconfig.json
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\bin\Debug\net7.0\SP.Bridge.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\bin\Debug\net7.0\SP.Bridge.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.csproj.AssemblyReference.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.AssemblyInfoInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.AssemblyInfo.cs
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.csproj.CoreCompileInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\refint\SP.Bridge.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\SP.Bridge.genruntimeconfig.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Bridge\obj\Debug\net7.0\ref\SP.Bridge.dll

@@ -17,7 +17,6 @@ E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.AssemblyInfoInputs.cache
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.AssemblyInfo.cs
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.csproj.CoreCompileInputs.cache
-E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.sourcelink.json
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.dll
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\refint\SP.Composite1.dll
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.pdb
@@ -28,3 +27,4 @@ E:\src\DesignPattern1\BuilderFactory\SP.Composite1\bin\Debug\net7.0\SP.Composite
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\bin\Debug\net7.0\SP.Composite1.pdb
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.genruntimeconfig.cache
 E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\ref\SP.Composite1.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Composite1\obj\Debug\net7.0\SP.Composite1.csproj.AssemblyReference.cache

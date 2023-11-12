@@ -1,0 +1,15 @@
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\bin\Debug\net7.0\SP.Flyweight.exe
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\bin\Debug\net7.0\SP.Flyweight.deps.json
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\bin\Debug\net7.0\SP.Flyweight.runtimeconfig.json
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\bin\Debug\net7.0\SP.Flyweight.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\bin\Debug\net7.0\SP.Flyweight.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.csproj.AssemblyReference.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.AssemblyInfoInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.AssemblyInfo.cs
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.csproj.CoreCompileInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\refint\SP.Flyweight.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\SP.Flyweight.genruntimeconfig.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Flyweight\obj\Debug\net7.0\ref\SP.Flyweight.dll

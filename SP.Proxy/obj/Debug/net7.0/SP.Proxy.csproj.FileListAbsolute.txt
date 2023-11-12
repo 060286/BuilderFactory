@@ -1,0 +1,15 @@
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\bin\Debug\net7.0\SP.Proxy.exe
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\bin\Debug\net7.0\SP.Proxy.deps.json
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\bin\Debug\net7.0\SP.Proxy.runtimeconfig.json
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\bin\Debug\net7.0\SP.Proxy.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\bin\Debug\net7.0\SP.Proxy.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.csproj.AssemblyReference.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.GeneratedMSBuildEditorConfig.editorconfig
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.AssemblyInfoInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.AssemblyInfo.cs
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.csproj.CoreCompileInputs.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\refint\SP.Proxy.dll
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.pdb
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\SP.Proxy.genruntimeconfig.cache
+E:\src\DesignPattern1\BuilderFactory\SP.Proxy\obj\Debug\net7.0\ref\SP.Proxy.dll
